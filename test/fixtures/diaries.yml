@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  title: 今日は終日休暇
+  body: 公園を散歩した
+
+two:
+  id: 2
+  title: 今日の天気
+  body: 今日の天気は雨だった
